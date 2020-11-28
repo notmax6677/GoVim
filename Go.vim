@@ -13,8 +13,8 @@
 " of GoVim, how else would i gain my popularity?
 " ---------------------------------------------------------------------------
 " Before you get this ready for use, there are a few things that you need to
-" configure. This guide assumes that you already have Golang installed 
-" on your machine, and have decent knowledge about using Vim.
+" configure. This guide assumes that you already have Golang and Git 
+" installed on your machine, and have decent knowledge about using Vim.
 " ---------------------------------------------------------------------------
 " 1: You need to set the PLUGIN_PATH on line 63, which is just the directory 
 " where you want to load the plugins into, it can be anywhere.
